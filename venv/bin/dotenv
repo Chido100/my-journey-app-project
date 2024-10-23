@@ -1,4 +1,4 @@
-#!/Users/chidozie/my-journey-app/venv/bin/python3
+#!/Users/chidozieamefule/my-journey-app-project/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
